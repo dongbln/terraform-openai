@@ -3,7 +3,7 @@ import streamlit as st
 import openai
 
 # Set the title of the Streamlit application
-st.title("DevOps Engineer meet AI Demo")
+st.title("Terraformii")
 
 # Request user to input OpenAPI API Key
 api_key = st.sidebar.text_input("Enter OpenAPI API Key", type="password")
